@@ -8,13 +8,15 @@ This repository provides a comprehensive example of implementing biometric authe
 
 Follow these steps to integrate biometric authentication into your Expo project:
 
-1. **Installation**: Clone this repository to your local machine.
+1. **Installation**: Clone this repository to your local machine and run `yarn install`.
 
-2. **Setup**: Ensure you have Expo SDK 50 installed in your project.
+2. **Setup**: Ensure you have iOS simulator installed.
 
-3. **Configuration**: Configure your Expo project to enable local authentication and biometrics. Refer to the [Expo documentation](https://docs.expo.dev/versions/latest/sdk/local-authentication/#permissions) for detailed instructions.
+3. **Running Example**: Run `yarn start` which starts expo and allows you to select a device from the simulator list.
 
-4. **Implementation**: Utilize the provided code examples and guidelines to integrate biometric authentication seamlessly into your iOS app.
+4. **Configuration**: Configure your Expo project to enable local authentication and biometrics. Refer to the [Expo documentation](https://docs.expo.dev/versions/latest/sdk/local-authentication/#permissions) for detailed instructions.
+
+5. **Implementation**: Utilize the provided code examples and guidelines to integrate biometric authentication seamlessly into your iOS app.
 
 ## Resources
 

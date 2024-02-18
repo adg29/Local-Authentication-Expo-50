@@ -1,12 +1,28 @@
-# Local authentication Expo Go
+# Biometric Authentication for iOS with Expo SDK
 
-## Hello my friend! 👋
+## Welcome! 👋
 
-This is an example of how to integrate local authentication
-using expo go
+This repository provides a comprehensive example of implementing biometric authentication for iOS using Expo SDK 50. This project is based on the original work by [👉🏼 betomoedano](https://www.youtube.com/channel/UCh247h68vszOMA_OWpGEa5g).
 
-## Check out my youtube channel for more info
+## Get Started
 
-> [👉🏼 **Español**](https://www.youtube.com/channel/UCzkDuc3rSDyEZYo3NoHzalw)
+Follow these steps to integrate biometric authentication into your Expo project:
 
-> [👉🏼 **English**](https://www.youtube.com/channel/UCh247h68vszOMA_OWpGEa5g)
+1. **Installation**: Clone this repository to your local machine.
+
+2. **Setup**: Ensure you have Expo SDK 50 installed in your project.
+
+3. **Configuration**: Configure your Expo project to enable local authentication and biometrics. Refer to the [Expo documentation](https://docs.expo.dev/versions/latest/sdk/local-authentication/#permissions) for detailed instructions.
+
+4. **Implementation**: Utilize the provided code examples and guidelines to integrate biometric authentication seamlessly into your iOS app.
+
+## Resources
+
+For more detailed insights and explanations, check out these resources:
+
+Refer to the [Expo documentation](https://docs.expo.dev/versions/latest/sdk/local-authentication/#permissions) for detailed instructions.
+
+## Contributions
+
+Contributions and feedback are welcomed! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
